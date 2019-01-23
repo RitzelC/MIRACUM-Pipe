@@ -54,7 +54,7 @@ minFreqForHom="0.75" # VAF to call homozygote
 minVarCount="4"
 
 # ANNOVAR Databases
-protocol='refGene,gnomad_exome,exac03,esp6500siv2_ea,EUR.sites.2015_08,avsnp150,clinvar_20180603,intervar_20180118,dbnsfp35a,cosmic86_coding,cosmic86_noncoding'
+protocol='refGene,gnomad_exome,exac03,esp6500siv2_ea,1000g2015aug_eur,avsnp150,clinvar_20180603,intervar_20180118,dbnsfp35a,cosmic86_coding,cosmic86_noncoding'
 argop='g,f,f,f,f,f,f,f,f,f,f'
 
 
